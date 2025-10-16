@@ -58,9 +58,6 @@ This project analyzes the famous Titanic dataset to understand factors that infl
 
 ## Usage
 Run the complete analysis by executing the single Python cell in Google Colab. The code handles all data loading, cleaning, analysis, and visualization automatically.
-
-## Time Estimate
-- Complete analysis runtime: ~1.2 hours
 - Includes comprehensive statistical testing and visualization
 
 ## Further Analysis
